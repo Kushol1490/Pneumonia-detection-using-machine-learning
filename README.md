@@ -1,0 +1,1 @@
+Here are the main three files GUI contains the graphical user interface. Test which will be testing the result and predict, which will be predicting the provided images content any Pneumonia or not. Run this in any Python operated compiler image data set of x-ray images. First of all train them using the test.py and then the model ready to go.
